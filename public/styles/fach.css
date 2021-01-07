@@ -1,0 +1,32 @@
+.img-fach {
+  height: 200px;
+}
+
+#img-container-fach {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: flex-start;
+}
+
+.fach-list {
+  list-style: none;
+  margin: 1vh 0;
+  width: 75%;
+  font-size: 18px;
+}
+
+.fach-list li {
+  margin: 5px 0;
+}
+
+.fach-list a:hover {
+  color: #000;
+}
+
+#link-box-fach {
+  width: 75%;
+}
+
+.vortrag-titel {
+  font-style: italic;
+}
